@@ -3,14 +3,13 @@
 <h2> About Me </h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<p>I currently work as an Android QA Intern because I am passionate about ensuring that the products offered to customers meet the requirements and deliver the expected quality. ✅ </p>
 
 - 👨🏻‍💻 I'm currently a Computer Engineering student. 
   
 - 🌐 I have a great interest in Backend Development.  
   
 - 📘 I’m currently learning JUnit and Spring Framework.
-  
-- 🌎 I live in Mexico City, Mexico.
   
 - 👾 Fun fact: I have a twin who also loves programming.
   
