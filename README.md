@@ -13,10 +13,10 @@
 
 <p>
   <!-- Lenguajes y herramientas principales -->
-  <img src="https://skillicons.dev/icons?i=java,cs,py,ruby" alt="" />
+  <img src="https://skillicons.dev/icons?i=java,cs,js,py,ruby" alt="" />
 
   <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,sass,bootstrap,astro,vite" alt="" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,astro,vite" alt="" />
 
   <!-- Backend -->
   <img src="https://skillicons.dev/icons?i=spring,dotnet,nodejs,maven,gradle" alt="" />
