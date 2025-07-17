@@ -3,7 +3,7 @@
 <h2> About Me </h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-<p>I’m a Junior Backend Developer with practical experience working in QA Automation teams. I’ve contributed to the design, testing, and improvement of RESTful APIs, combining my knowledge of Java and Spring Boot with quality-focused practices such as automated testing using Postman, Selenium, and Cucumber. ✅ </p>
+<p>I’m a Junior QA Automation with practical experience working in QA Automation teams. I’ve contributed to the design, testing, and improvement of RESTful APIs, combining my knowledge of Java and Spring Boot with quality-focused practices such as automated testing using Postman, Selenium, and Cucumber. ✅ </p>
 
 - 👨🏻‍💻 I'm currently a Computer Engineering student. 
   
