@@ -13,22 +13,22 @@
 
 <p>
   <!-- Lenguajes y herramientas principales -->
-  <img src="https://skillicons.dev/icons?i=java,cs,js,py,ruby" alt="" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,py,ruby" alt="" />
 
   <!-- Frontend -->
   <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,astro,vite" alt="" />
 
   <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=spring,dotnet,nodejs,maven,gradle" alt="" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs" alt="" />
 
   <!-- Cloud -->
   <img src="https://skillicons.dev/icons?i=aws" alt="" />
 
   <!-- DevOps / CI-CD -->
-  <img src="https://skillicons.dev/icons?i=gitlab,jenkins,docker&perline=3" alt="" />
+  <img src="https://skillicons.dev/icons?i=gitlab,jenkins,docker" alt="" />
 
   <!-- Bases de datos -->
-  <img src="https://skillicons.dev/icons?i=mysql,postgres&perline=2" alt="" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="" />
 
   <!-- Control de versiones -->
   <img src="https://skillicons.dev/icons?i=git,github,bitbucket&perline=3" alt="" />
