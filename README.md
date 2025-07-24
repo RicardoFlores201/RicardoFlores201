@@ -31,13 +31,13 @@
   <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="" />
 
   <!-- Control de versiones -->
-  <img src="https://skillicons.dev/icons?i=git,github,bitbucket&perline=3" alt="" />
+  <img src="https://skillicons.dev/icons?i=git,github,bitbucket" alt="" />
 
   <!-- Testing -->
-  <img src="https://skillicons.dev/icons?i=postman,selenium,gherkin&perline=3" alt="" />
+  <img src="https://skillicons.dev/icons?i=postman,selenium,gherkin" alt="" />
 
   <!-- IDEs -->
-  <img src="https://skillicons.dev/icons?i=idea,visualstudio,pycharm,vscode,androidstudio,eclipse&perline=6" alt="" />
+  <img src="https://skillicons.dev/icons?i=idea,visualstudio,pycharm,vscode,androidstudio,eclipse" alt="" />
 </p>
 <p>
   <strong>Others:</strong>
