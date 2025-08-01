@@ -3,11 +3,11 @@
 <h2> About Me </h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-<p>I’m a Junior QA Automation with practical experience working in QA Automation teams. I’ve contributed to the design, testing, and improvement of RESTful APIs, combining my knowledge of Java and Spring Boot with quality-focused practices such as automated testing using Postman, Selenium, and Cucumber. ✅ </p>
+<p>I’m a Junior QA Automation Engineer with hands-on experience in Agile/Scrum teams. I’ve contributed to the design, testing, and enhancement of RESTful APIs, leveraging my knowledge of Java and Spring Boot alongside quality-focused automation with Postman, Selenium, and Cucumber. ✅ </p>
 
 - 👨🏻‍💻 I'm currently a Computer Engineering student. 
   
-- Strong interest in Cloud, DevOps and Backend Develop.
+- Strong interest in Testing, Cloud, DevOps and Backend Develop.
 
 <h2 align="center">Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"></h2>
 
@@ -21,11 +21,8 @@
   <!-- Backend -->
   <img src="https://skillicons.dev/icons?i=spring,nodejs" alt="" />
 
-  <!-- Cloud -->
-  <img src="https://skillicons.dev/icons?i=aws" alt="" />
-
   <!-- DevOps / CI-CD -->
-  <img src="https://skillicons.dev/icons?i=gitlab,jenkins,docker" alt="" />
+  <img src="https://skillicons.dev/icons?i=gitlab,jenkins" alt="" />
 
   <!-- Bases de datos -->
   <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="" />
@@ -37,7 +34,7 @@
   <img src="https://skillicons.dev/icons?i=postman,selenium,gherkin" alt="" />
 
   <!-- IDEs -->
-  <img src="https://skillicons.dev/icons?i=idea,visualstudio,pycharm,vscode,androidstudio,eclipse" alt="" />
+  <img src="https://skillicons.dev/icons?i=idea,pycharm,vscode,androidstudio,eclipse" alt="" />
 </p>
 <p>
   <strong>Others:</strong>
