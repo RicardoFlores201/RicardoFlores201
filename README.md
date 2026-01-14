@@ -13,13 +13,15 @@
 
 <p>
   <!-- Lenguajes y herramientas principales -->
-  <img src="https://skillicons.dev/icons?i=java,js,ts,py,ruby" alt="" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,py" alt="" />
 
   <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,astro,vite" alt="" />
+  <img src="https://skillicons.dev/icons?i=html,css" alt="" />
 
   <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=spring,nodejs" alt="" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,npm" alt="" />
+
+  <img src="https://skillicons.dev/icons?i=kotlin,firebase,androidstudio" alt="" />
 
   <!-- DevOps / CI-CD -->
   <img src="https://skillicons.dev/icons?i=gitlab,jenkins" alt="" />
@@ -34,7 +36,7 @@
   <img src="https://skillicons.dev/icons?i=postman,selenium,gherkin" alt="" />
 
   <!-- IDEs -->
-  <img src="https://skillicons.dev/icons?i=idea,pycharm,vscode,androidstudio,eclipse" alt="" />
+  <img src="https://skillicons.dev/icons?i=idea,pycharm,vscode,eclipse" alt="" />
 </p>
 <p>
   <strong>Others:</strong>
