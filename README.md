@@ -6,18 +6,18 @@
 
 <p>
   <!-- Lenguajes y herramientas principales -->
-  <img src="https://skillicons.dev/icons?i=java,js,ts,py" alt="" />
+  <img src="https://skillicons.dev/icons?i=java,js,py" alt="" />
 
   <!-- Frontend -->
   <img src="https://skillicons.dev/icons?i=html,css" alt="" />
 
   <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,npm" alt="" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,npm,gradle" alt="" />
 
   <img src="https://skillicons.dev/icons?i=kotlin,firebase,androidstudio" alt="" />
 
   <!-- DevOps / CI-CD -->
-  <img src="https://skillicons.dev/icons?i=gitlab,jenkins" alt="" />
+  <img src="https://skillicons.dev/icons?i=gitlab,jenkins,grafana" alt="" />
 
   <!-- Bases de datos -->
   <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="" />
@@ -29,7 +29,7 @@
   <img src="https://skillicons.dev/icons?i=postman,selenium,gherkin" alt="" />
 
   <!-- IDEs -->
-  <img src="https://skillicons.dev/icons?i=idea,pycharm,vscode,eclipse" alt="" />
+  <img src="https://skillicons.dev/icons?i=idea,pycharm,vscode,eclipse,notion" alt="" />
 </p>
 <p>
   <strong>Others:</strong>
