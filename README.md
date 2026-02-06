@@ -6,10 +6,10 @@
 
 <p>
   <!-- Lenguajes y herramientas principales -->
-  <img src="https://skillicons.dev/icons?i=java,js,py" alt="" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,py" alt="" />
 
   <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css" alt="" />
+  <img src="https://skillicons.dev/icons?i=html,css,vue" alt="" />
 
   <!-- Backend -->
   <img src="https://skillicons.dev/icons?i=spring,nodejs,npm,gradle" alt="" />
