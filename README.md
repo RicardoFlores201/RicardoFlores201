@@ -9,7 +9,7 @@
   <img src="https://skillicons.dev/icons?i=java,js,ts,py" alt="" />
 
   <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css,vue" alt="" />
+  <img src="https://skillicons.dev/icons?i=html,css,vue,bootstrap" alt="" />
 
   <!-- Backend -->
   <img src="https://skillicons.dev/icons?i=spring,nodejs,npm,gradle" alt="" />
@@ -29,7 +29,7 @@
   <img src="https://skillicons.dev/icons?i=postman,selenium,gherkin" alt="" />
 
   <!-- IDEs -->
-  <img src="https://skillicons.dev/icons?i=idea,pycharm,vscode,eclipse,notion" alt="" />
+  <img src="https://skillicons.dev/icons?i=idea,pycharm,vscode,eclipse,notion,apple" alt="" />
 </p>
 <p>
   <strong>Others:</strong>
