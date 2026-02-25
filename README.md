@@ -26,7 +26,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,bitbucket" alt="" />
 
   <!-- Testing -->
-  <img src="https://skillicons.dev/icons?i=postman,selenium,gherkin" alt="" />
+  <img src="https://skillicons.dev/icons?i=postman,selenium,gherkin,bash" alt="" />
 
   <!-- IDEs -->
   <img src="https://skillicons.dev/icons?i=idea,pycharm,vscode,eclipse,notion,apple" alt="" />
