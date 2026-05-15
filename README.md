@@ -20,7 +20,7 @@
   <img src="https://skillicons.dev/icons?i=gitlab,jenkins,grafana" alt="" />
 
   <!-- Bases de datos -->
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase" alt="" />
 
   <!-- Control de versiones -->
   <img src="https://skillicons.dev/icons?i=git,github,bitbucket" alt="" />
