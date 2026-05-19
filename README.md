@@ -9,7 +9,7 @@
   <img src="https://skillicons.dev/icons?i=java,js,ts,py" alt="" />
 
   <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" alt="" />
+  <img src="https://skillicons.dev/icons?i=html,css" alt="" />
 
   <!-- Backend -->
   <img src="https://skillicons.dev/icons?i=spring,nodejs,npm,gradle" alt="" />
