@@ -17,7 +17,7 @@
   <img src="https://skillicons.dev/icons?i=kotlin,firebase,androidstudio" alt="" />
 
   <!-- DevOps / CI-CD -->
-  <img src="https://skillicons.dev/icons?i=gitlab,jenkins,grafana" alt="" />
+  <img src="https://skillicons.dev/icons?i=gitlab,jenkins,grafana,docker" alt="" />
 
   <!-- Bases de datos -->
   <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase" alt="" />
